@@ -1,9 +1,11 @@
 import { useState } from 'react'
 
 function App() {
+ 
 
   return (
     <>
+     <h1 className='bg-gray-400'>hello world</h1>
      </>
   )
 }
