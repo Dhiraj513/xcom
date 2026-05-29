@@ -1,11 +1,11 @@
 import { useState } from 'react'
-
+import Header from './components/layouts/Header'
 function App() {
  
 
   return (
     <>
-     <h1 className='bg-gray-400'>hello world</h1>
+  <Header/>
      </>
   )
 }
