@@ -2,7 +2,7 @@ import React from 'react';
 
 const header = () => {
   return (
-    <div className='w-full flex justify-between bg-gray-200 px-5'>
+    <div className='w-full flex justify-between bg-gray-200 px-5 py-3'>
 <h1 className='text-x1'> XECOM </h1>
 <ul className='flex space-x-3'>
     <li> Home</li>
