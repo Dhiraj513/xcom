@@ -7,8 +7,8 @@ function App() {
   return (
     <>
   <Header/>
-<div className='min-h-80'>
-  <h2>Welcome to XCOM</h2>
+<div className='min-h-80' flex flex-col items-center justify-center>
+  <h2 className='text-2xl font-bold'>Welcome to XCOM</h2>
 </div>
   <Footer/>
      </>
